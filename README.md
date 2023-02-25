@@ -1,6 +1,7 @@
 ## 👋 Hi there, I'm Farzine Hossen
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 ### 👨🏻‍💻 &nbsp;About Me
+
 🎓 &nbsp;I'm currently studying Software Engineering at the Shahjalal University of Science and Technology.\
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
