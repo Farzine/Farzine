@@ -2,14 +2,15 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
  👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm currently studying Software Engineering at the Shahjalal University of Science and Technology
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks
-🌱 &nbsp;I'm on track for learning more about Competative Programing, Systems Design, and Web Technlogoies
-✉️ &nbsp;You can shoot me an email at alfezafarzine@gmail.com I'll try to respond as soon as I can
+🎓 &nbsp;I'm currently studying Software Engineering at the Shahjalal University of Science and Technology.\
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🌱 &nbsp;I'm on track for learning more about Competative Programing, Systems Design, and Web Technlogoies.\
+✉️ &nbsp;You can shoot me an email at alfezafarzine@gmail.com I'll try to respond as soon as I can.\
 
 <br/>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> &nbsp; ***Tech Stack***
 
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
