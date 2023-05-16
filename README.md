@@ -11,7 +11,7 @@
 <!-- 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Farzine&count_private=true&show_icons=true&&theme=midnight-purple&include_all_commits=true%22%20&hide_border=true) -->
 
-![Top Language](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shawon-majid&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&count_private=true)
+![Top Language](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Farzine&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&count_private=true)
 
 
 <br/>
