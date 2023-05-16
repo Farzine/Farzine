@@ -7,6 +7,13 @@
 🌱 &nbsp;I'm on track for learning more about Competative Programing, Systems Design, and Web Technlogoies.\
 ✉️ &nbsp;You can shoot me an email at alfezafarzine@gmail.com I'll try to respond as soon as I can.
 
+<h3 align="left">📈 Github Overview</h3>
+<!-- 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Farzine&count_private=true&show_icons=true&&theme=midnight-purple&include_all_commits=true%22%20&hide_border=true) -->
+
+![Top Language](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shawon-majid&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&count_private=true)
+
+
 <br/>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
