@@ -1,3 +1,8 @@
+<div align="center">
+
+<img src="[https://github.com/emon-swe-sust/emon-swe-sust/blob/main/assets/dp.jpg](https://github.com/Farzine/Farzine/blob/main/assets/technovenbt%20photo.jpg)" width=50% margin=auto></h2>
+</div>
+
 ## 👋 Hi there, I'm Farzine Hossen
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
  👨🏻‍💻 &nbsp;About Me
