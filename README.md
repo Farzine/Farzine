@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="[https://github.com/emon-swe-sust/emon-swe-sust/blob/main/assets/dp.jpg](https://github.com/Farzine/Farzine/blob/main/assets/technovenbt%20photo.jpg)" width=50% margin=auto></h2>
+<img src="https://github.com/Farzine/Farzine/blob/main/assets/technovenbt%20photo.jpg" width=50% margin=auto></h2>
+<hr />
 </div>
 
 ## 👋 Hi there, I'm Farzine Hossen
@@ -16,7 +17,6 @@
 <!-- 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Farzine&count_private=true&show_icons=true&&theme=midnight-purple&include_all_commits=true%22%20&hide_border=true) -->
 
-![Top Language](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Farzine&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&count_private=true)
 ![Top Language](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Farzine&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&count_private=true)
 
 <br/>
