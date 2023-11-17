@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/Farzine/Farzine/blob/main/assets/381829123_357385036623951_2874286060325454417_n.jpg" width=50% margin=auto></h2>
+<img src="https://github.com/Farzine/Farzine/blob/main/assets/111111.jpg" width=50% margin=auto></h2>
 <hr />
 </div>
 
