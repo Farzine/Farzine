@@ -10,12 +10,12 @@
 ## 👋 Hi there, I'm Farzine Hossen
 
  <p align="center" width="150px"> 
- 👨🏻‍💻 &nbsp;About Me
+ 👨🏻‍💻 &nbsp;<b>About Me</b>
 
-🎓 &nbsp;I'm currently studying Software Engineering at the Shahjalal University of Science and Technology.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🌱 &nbsp;I'm on track for learning more about Competative Programing, Systems Design, Development and Web Technlogoies.\
-✉️ &nbsp;You can shoot me an email at alfezafarzine@gmail.com I'll try to respond as soon as I can.
+🎓 &nbsp;I'm currently studying <b>Software Engineering</b> at the <b>Shahjalal University of Science and Technology</b>.<br>
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.</br><br>
+🌱 &nbsp;I'm on track for learning more about <b>Competative Programing</b>, <b>Systems Design</b>, <b>Development</b> and <b>Web Technlogoies</b>.</br>
+✉️ &nbsp;You can shoot me an <b>email</b> at <b>alfezafarzine@gmail.com</b> I'll try to respond as soon as I can.
 </p>
 
 <h3 align="center">📈 Github Overview</h3>
@@ -24,32 +24,32 @@
 
 ![Top Language](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Farzine&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&count_private=true)
 <br/>
-
+<p align="right">
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+</p>
 <p align='center'>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> &nbsp; ***Tech Stack***
 
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)\
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;\
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;\
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;\
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)
-![WordPress Theme Version](https://img.shields.io/wordpress/theme/v/:slug)
-![HTML](https://img.shields.io/badge/-HTML-239120?style=flat&logo=html5)\
-![CSS](https://img.shields.io/badge/-CSS-239120?style=flat&logo=css3)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress)
+![HTML](https://img.shields.io/badge/-HTML-239120?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-239120?style=flat&logo=css3)\
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=android-studio)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity)
 
-
-<p/>
+</p>
 
 
 
@@ -74,7 +74,11 @@
 <img src='https://activity-graph.herokuapp.com/graph?username=Farzine&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true' />
   
   </p>
+  <p align='center'>
+<img align="center" src="https://api.githubtrends.io/user/svg/Farzine/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=classic"  width="400px" >
+</p>
  <br> 
+ 
  <hr>
   <div align="center">
   <h3><b>😄 Can Connect With Me On</b></h3>
