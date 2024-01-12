@@ -14,7 +14,7 @@
 
 🎓 &nbsp;I'm currently studying Software Engineering at the Shahjalal University of Science and Technology.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🌱 &nbsp;I'm on track for learning more about Competative Programing, Systems Design, and Web Technlogoies.\
+🌱 &nbsp;I'm on track for learning more about Competative Programing, Systems Design, Development and Web Technlogoies.\
 ✉️ &nbsp;You can shoot me an email at alfezafarzine@gmail.com I'll try to respond as soon as I can.
 </p>
 
@@ -31,13 +31,24 @@
 
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;\
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;\
-![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=C#)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;\
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)
+![WordPress Theme Version](https://img.shields.io/wordpress/theme/v/:slug)
+![HTML](https://img.shields.io/badge/-HTML-239120?style=flat&logo=html5)\
+![CSS](https://img.shields.io/badge/-CSS-239120?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=android-studio)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
+
+
 <p/>
 
 
