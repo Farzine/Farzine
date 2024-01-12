@@ -8,7 +8,7 @@
 </div>
 
 ## 👋 Hi there, I'm Farzine Hossen
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="center" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
  👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;I'm currently studying Software Engineering at the Shahjalal University of Science and Technology.\
@@ -38,6 +38,13 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> &nbsp; GitHub Analytics
+
+<p align="center">
+<img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Farzine&theme=moltack"  />
+    
+ <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Farzine&theme=moltack"  />
+</p>
+
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">     
