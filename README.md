@@ -13,9 +13,10 @@
  👨🏻‍💻 &nbsp;<b>About Me</b>
 
 🎓 &nbsp;I'm currently studying <b>Software Engineering</b> at the <b>Shahjalal University of Science and Technology</b>.<br>
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.</br><br>
-🌱 &nbsp;I'm on track for learning more about <b>Competative Programing</b>, <b>Systems Design</b>, <b>Development</b> and <b>Web Technlogoies</b>.</br>
-✉️ &nbsp;You can shoot me an <b>email</b> at <b>alfezafarzine@gmail.com</b> I'll try to respond as soon as I can.
+🌱 &nbsp;I'm on track for learning more about <b>Competative Programing</b>, <b>Systems Design</b>, <b>Development</b> and <b>Web Technlogoies</b>.
+</br>
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br>
+✉️ &nbsp;You can shoot me an <b>email</b> at <b>alfezafarzine@gmail.com</b> I'll try to respond as soon as I can.</br>
 </p>
 
 <h3 align="center">📈 Github Overview</h3>
@@ -24,9 +25,7 @@
 
 ![Top Language](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Farzine&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&count_private=true)
 <br/>
-<p align="center">
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-</p>
+
 <p align='center'>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> &nbsp; ***Tech Stack***
 
@@ -73,7 +72,9 @@
 <p align='center'>
 <img align="center" src="https://api.githubtrends.io/user/svg/Farzine/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=classic"  width="400px" >
 </p>
-
+<p align="center">
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+</p>
  <br> 
  
  <hr>
