@@ -69,13 +69,8 @@
 </a>
 </p>
 <br>
-<p align='center'>
-<img align="center" src="https://api.githubtrends.io/user/svg/Farzine/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=classic"  width="400px" >
-</p>
-<p align="center">
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-</p>
- <br> 
+
+ </br> 
  
  <hr>
   <div align="center">
