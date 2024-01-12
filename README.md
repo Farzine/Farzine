@@ -24,7 +24,7 @@
 
 ![Top Language](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Farzine&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&count_private=true)
 <br/>
-<p align="right">
+<p align="center">
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 </p>
 <p align='center'>
@@ -70,13 +70,10 @@
 </a>
 </p>
 <br>
-<p align="centre">
-<img src='https://activity-graph.herokuapp.com/graph?username=Farzine&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true' />
-  
-  </p>
-  <p align='center'>
+<p align='center'>
 <img align="center" src="https://api.githubtrends.io/user/svg/Farzine/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=classic"  width="400px" >
 </p>
+
  <br> 
  
  <hr>
@@ -112,7 +109,7 @@
 
 [MD. Farzine Hossen](https://github.com/Farzine)
 
-Last Edited on: 25/2/2023
+Last Edited on: 12/1/2024
 
 
 ------
