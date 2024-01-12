@@ -1,6 +1,10 @@
 <div align="center">
 
 <img src="https://github.com/Farzine/Farzine/blob/main/assets/111111.jpg" width=50% margin=auto></h2>
+<div align="center">
+<a href = "https://drive.google.com/file/d/1cfR3IW4ZLG76T8cKuasvsd-iJIOD0yoI/view?usp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Farzine-blue" width="200" height="35"></a>
+
+<a href = "https://farzine.github.io/farzinehossen/" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="220"height="35"></a>
 <hr />
 </div>
 
