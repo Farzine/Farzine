@@ -64,12 +64,12 @@
 <a href="https://github.com/Farzine">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Farzine&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Farzine&layout=compact&langs_count=8&theme=algolia"/>
-  <img alt="Mark streak" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Farzine&layout=compact&langs_count=8&theme=algolia" /> 
+ 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
 </a>
 </p>
 <br>
-
+ <img alt="Mark streak" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Farzine&layout=compact&langs_count=8&theme=algolia" /> 
  <br> 
  
  <hr>
@@ -86,6 +86,9 @@
 </a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/alfeza.farzine.9">
     <img align="center" alt="Farzine | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+</a> &nbsp;&nbsp;
+<a href="https://farzine.github.io/farzinehossen/" target="_blank" rel="noopener noreferrer">
+    <img align="center" alt="Farzine | Website" width="24px" src="https://via.placeholder.com/100" />
 </a> &nbsp;&nbsp;
 <p>
   
