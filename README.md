@@ -65,7 +65,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Farzine&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Farzine&layout=compact&langs_count=8&theme=algolia"/>
  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
+   
 </a>
 </p>
 <br>
@@ -80,16 +80,16 @@
 <a href="https://www.linkedin.com/in/al-feza-farzine-4785b9225/" target="_blank">
   
   <img align="center" alt="Farzine | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
+</a>
 <a href="alfezafarzine@gmail.com" >
   <img align="center" alt="Farzine | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
+</a> 
 <a href="https://www.facebook.com/alfeza.farzine.9">
     <img align="center" alt="Farzine | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
-</a> &nbsp;&nbsp;
+</a> 
 <a href="https://farzine.github.io/farzinehossen/" target="_blank" rel="noopener noreferrer">
-    <img align="center" alt="Farzine | Website" width="24px" src="https://via.placeholder.com/100" />
-</a> &nbsp;&nbsp;
+    <img align="center" alt="Farzine | Website" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
+</a> 
 <p>
   
   <br>
