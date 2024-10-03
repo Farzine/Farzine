@@ -1,6 +1,4 @@
-<div align="center">
-
-<img src="https://github.com/Farzine/Farzine/blob/main/assets/111111.jpg" width=50% margin=auto></h2>
+<img src="assets/header.png" align='center'>
 <div align="center">
 <a href = "https://drive.google.com/file/d/1cfR3IW4ZLG76T8cKuasvsd-iJIOD0yoI/view?usp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Farzine-blue" width="200" height="35"></a>
 <a href = "https://farzine.github.io/farzinehossen/" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="200" height="35"></a>
@@ -10,7 +8,9 @@
 ## 👋 Hi there, I'm Farzine Hossen
 
  <p align="center" width="150px"> 
- 👨🏻‍💻 &nbsp;<b>About Me</b>
+ <p style="font-size: 24px; font-weight: bold;">
+  👨🏻‍💻 &nbsp;<b>About Me</b>
+</p>
 
 🎓 &nbsp;I'm currently studying <b>Software Engineering</b> at the <b>Shahjalal University of Science and Technology</b>.<br>
 🌱 &nbsp;I'm on track for learning more about <b>Competative Programing</b>, <b>Systems Design</b>, <b>Development</b> and <b>Web Technlogoies</b>.
@@ -19,7 +19,7 @@
 ✉️ &nbsp;You can shoot me an <b>email</b> at <b>alfezafarzine@gmail.com</b> I'll try to respond as soon as I can.</br>
 </p>
 
-<h3 align="center">📈 Github Overview</h3>
+<p style="font-size: 24px; font-weight: bold;" align="center">📈 Github Overview</p>
 <!-- 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Farzine&count_private=true&show_icons=true&&theme=midnight-purple&include_all_commits=true%22%20&hide_border=true) -->
 
@@ -27,7 +27,7 @@
 <br/>
 
 <p align='center'>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> &nbsp; ***Tech Stack***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> &nbsp; <p style="font-size: 24px; font-weight: bold;" align="center">***Tech Stack***</p>
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -38,15 +38,27 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;\
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress)
 ![HTML](https://img.shields.io/badge/-HTML-239120?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-239120?style=flat&logo=css3)\
+![CSS](https://img.shields.io/badge/-CSS-239120?style=flat&logo=css3)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)&nbsp;\
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=android-studio)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)&nbsp;\
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+
 
 </p>
 
@@ -74,23 +86,19 @@
  
  <hr>
   <div align="center">
-  <h3><b>😄 Can Connect With Me On</b></h3>
-  </div>
+
+## 📞 Connect with me
+
 <p align="center">
-<a href="https://www.linkedin.com/in/al-feza-farzine-4785b9225/" target="_blank">
-  
-  <img align="center" alt="Farzine | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a>
-<a href="alfezafarzine@gmail.com" >
-  <img align="center" alt="Farzine | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> 
-<a href="https://www.facebook.com/alfeza.farzine.9">
-    <img align="center" alt="Farzine | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
-</a> 
-<a href="https://farzine.github.io/farzinehossen/" target="_blank" rel="noopener noreferrer">
-    <img align="center" alt="Farzine | Website" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
-</a> 
-<p>
+<a href="mailto:alfezafarzine@gmail.com?subject=Want%20to%20contact%20you%20from%20github"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"/></a>
+<a href="https://www.facebook.com/alfeza.farzine.9"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="42" height="30" alt="facebook logo"  /></a>
+<a href="https://www.linkedin.com/in/farzine-hossen/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  /></a>
+<a href="https://stackoverflow.com/users/13511410/sumonta-saha-mridul" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="42" height="30" alt="linktree logo"  /></a>
+<a href="https://codeforces.com/profile/alfezafarzine" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="42" height="30" alt="linktree logo"  /></a>
+<a href="https://leetcode.com/u/farzine/" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="42" height="30" alt="linktree logo"  /></a>
+</p>
+
+</div>
   
   <br>
   
@@ -102,13 +110,16 @@
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/Farzine/count.svg" />  
 </p>
+<br>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Farzine"> <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/Farzine">
+</p>
 </p>
 
 ------
 
 [MD. Farzine Hossen](https://github.com/Farzine)
 
-Last Edited on: 12/1/2024
+Last Edited on: 10/3/2024
 
 
 ------
