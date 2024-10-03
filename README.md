@@ -41,13 +41,13 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-239120?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-239120?style=flat&logo=css3)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)&nbsp;\
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity)&nbsp;\
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=android-studio)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)&nbsp;\
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
