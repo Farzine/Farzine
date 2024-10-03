@@ -1,5 +1,6 @@
 <img src="assets/header.png" align='center'>
 <div align="center">
+<div align="center">
 <a href = "https://drive.google.com/file/d/1cfR3IW4ZLG76T8cKuasvsd-iJIOD0yoI/view?usp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Farzine-blue" width="200" height="35"></a>
 <a href = "https://farzine.github.io/farzinehossen/" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="200" height="35"></a>
 <hr />
@@ -123,5 +124,5 @@ Last Edited on: 10/3/2024
 
 
 ------
-  
+</div>
   
