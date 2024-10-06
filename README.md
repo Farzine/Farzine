@@ -106,12 +106,12 @@
   
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
+ <!-- retro visitor counter -->  
+<p align="center" >   
+   
+</p>
 </div>
     
-<!-- retro visitor counter -->  
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/Farzine/count.svg" />  
-</p>
 <br>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Farzine"> <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/Farzine">
 </p>
