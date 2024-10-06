@@ -108,7 +108,7 @@
   <h3><b>📍 Profile Visitor Count</b></h3>
  <!-- retro visitor counter -->  
 <p align="center" >   
-   
+   <img src="https://profile-counter.glitch.me/Farzine/count.svg" /> 
 </p>
 </div>
     
